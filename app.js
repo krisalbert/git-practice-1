@@ -11,3 +11,7 @@ var sayHello = function(person) {
 var printEmail = function(person) {
   console.log('email: ' + person.email);
 };
+
+var printPhone = function(person) {
+  console.log('phone: ' + person.phone);
+};
